@@ -1,0 +1,21 @@
+@media only screen and (max-width: 756px) {
+  .home-row {
+    flex-direction: column-reverse;
+  }
+}
+
+@media screen and (max-width: 922px) {
+}
+
+@media screen and (max-width: 576px) {
+  .img-home {
+    width: 75%;
+  }
+
+  .card-why-us {
+    margin: 20px 0;
+  }
+}
+
+@media screen and (max-width: 350px) {
+}
